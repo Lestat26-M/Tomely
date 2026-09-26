@@ -7,4 +7,4 @@ Public pages for **Tomely: Book Tracker & TBR** (iPhone & iPad).
 - Terms of Use: https://lestat26-m.github.io/Tomely/terms.html
 
 Pages are available in English and Turkish (`?lang=tr`).
-Contact: zgyenisen@gmail.com
+Contact: zgy.apps@gmail.com
